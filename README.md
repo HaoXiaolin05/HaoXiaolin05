@@ -1,5 +1,14 @@
 ## Hi there 👋
+# 👋 Xin chào, mình là Lê Minh Hào
 
+🎓 Sinh viên HCMUT | 💻 Yêu thích Network & IOT 
+
+- 🔭 Hiện đang làm: 
+- 🌱 Đang học: ...
+- 🎯 Mục tiêu: ...
+- 📫 Liên hệ: [Facebook](https://facebook.com/minhhao.xiaolin) | [LinkedIn](in.com/in/minhhaocse/)
+
+![Profile](../images/profile.png)
 <!--
 **HaoXiaolin05/HaoXiaolin05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
